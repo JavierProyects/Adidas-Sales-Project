@@ -2,7 +2,9 @@
 📊 Excited to share the results of my recent Adidas sales project! I analyzed sales data from the past year and uncovered some fascinating insights. 
 
 🔍 Project Overview:
-Using data from Adidas sales transactions, I conducted a comprehensive analysis to understand sales performance across different states, retailers, seasons, and sales methods. The goal was to identify trends, patterns, and opportunities to optimize sales strategies. Questions to consider:
+Using data from Adidas sales transactions, I conducted a comprehensive analysis to understand sales performance across different states, retailers, seasons, and sales methods. The goal was to identify trends, patterns, and opportunities to optimize sales strategies. 
+
+Questions to consider:
 
 1 - Which retailer would be the most strategic partner for Adidas in maximizing profits?
 2 - Which is the best sales method? Why?
@@ -11,6 +13,7 @@ Using data from Adidas sales transactions, I conducted a comprehensive analysis 
 5 - Which month does Adidas get more revenue? Why?
 
 📈 Key Findings:
+
 1 - West Gear leads in total units sold, with 619,822 units, followed by Footlocker with 569,451 and Sports Direct with 553,494. Here most of us will think that West Gear is the best choice for Adidas to partner with. However, considering the profit margin, Sports Direct outshines the rest of the retailers by 40.737%. After a few calculations, the most profitable retailer is Sports Direct with a net profit of $225,476.851, followed by West Gear with $218,543.309, and Footlocker with $208,851.849.
 
 2 - The bar chart illustrating different Sales Methods shows that online sales lead with 927,439 units sold, highlighting the popularity of online shopping. Outlet sales follow with 821,339 units. In-store sales come next with 672,766 units. Overall, online sales outperform other channels due to factors such as accessibility, convenience, and broader reach.
